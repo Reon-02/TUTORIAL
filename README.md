@@ -1,4 +1,4 @@
 # TUTORIAL
-this is my demo repository 
+this is my demo repository. 
 <br>
-Author Reon Dantis
+Author:Reon Dantis
